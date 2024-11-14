@@ -1,0 +1,45 @@
+_repo: History-of-the-World-War-Volume-4-of-7-b-An-authentic-narrative-of-the-world-s-greatest-war_74728
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Beamish, Richard J.
+    gutenberg_agent_id: '57620'
+    url: http://www.gutenberg.org/2009/agents/57620
+  - agent_name: March, Peyton C.
+    gutenberg_agent_id: '57621'
+    url: http://www.gutenberg.org/2009/agents/57621
+  photographers:
+  - agent_name: Hare, James H.
+    gutenberg_agent_id: '57622'
+    url: http://www.gutenberg.org/2009/agents/57622
+  - agent_name: Thompson, Don
+    alias: Thompson, Donald Arthur
+    birthdate: 1935
+    deathdate: 1994
+    gutenberg_agent_id: '34538'
+    url: http://www.gutenberg.org/2009/agents/34538
+creator:
+  author:
+    agent_name: March, Francis A.
+    gutenberg_agent_id: '57619'
+    url: http://www.gutenberg.org/2009/agents/57619
+description: ''
+gutenberg_issued: '2024-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74728'
+language: en
+pgterms:marc905: 20190726172250march
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, Ed Leckert, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bLeslie-Judge Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'History of the World War, Volume 4 (of 7) : $b An authentic narrative of the
+  world''s greatest war'
+url: http://www.gutenberg.org/ebooks/74728
