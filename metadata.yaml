@@ -18,12 +18,17 @@ contributor:
     deathdate: 1994
     gutenberg_agent_id: '34538'
     url: http://www.gutenberg.org/2009/agents/34538
+covers:
+- cover_type: archival
+  image_path: 74728-h/images/coversmall.jpg
 creator:
   author:
     agent_name: March, Francis A.
     gutenberg_agent_id: '57619'
     url: http://www.gutenberg.org/2009/agents/57619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74728#History-of-the-World-War-Volume-4-of-7-b-An-authentic-narrative-of-the-world-s-greatest-war
 gutenberg_issued: '2024-11-12'
 gutenberg_type: Text
 identifiers:
